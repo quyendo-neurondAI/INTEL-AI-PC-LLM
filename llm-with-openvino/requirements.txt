@@ -1,0 +1,11 @@
+openvino
+openvino-genai
+transformers
+onnx
+optimum
+optimum[nncf]
+optimum[openvino]
+accelerate
+einops
+tiktoken
+ipykernel
